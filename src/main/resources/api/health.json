@@ -1,0 +1,9 @@
+{
+    "name": {
+        "in": "query",
+        "name": "name",
+        "type": "String",
+        "required": false,
+        "emptyAllowed": false
+    }
+}
